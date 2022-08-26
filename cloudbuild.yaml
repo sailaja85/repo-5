@@ -2,7 +2,7 @@ steps:
 
 - id: "Current Direcotry"
   name: ubuntu
-  args: 
+  script: 
       - |
          ls
          pwd     
