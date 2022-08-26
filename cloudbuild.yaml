@@ -2,8 +2,7 @@ steps:
 
 - id: "Current Direcotry"
   name: ubuntu
-  script: 
-      - |
+  script: |
          ls
          pwd     
 #- name: 'gcr.io/cloud-builders/git'
