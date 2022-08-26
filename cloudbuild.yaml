@@ -1,5 +1,5 @@
 steps:
 - name: ubuntu
-  args: ['ls', 'pwd' ]
+  args: ['ls' ]
 #- name: 'gcr.io/cloud-builders/git'
 #  args: ['clone','https://github.com/sailaja85/java1.git']
