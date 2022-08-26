@@ -3,7 +3,7 @@ steps:
 - id: "Current Direcotry"
   name: ubuntu
   args: 
-      - "ls"
-      - "pwd"     
+      - ls
+      - pwd     
 #- name: 'gcr.io/cloud-builders/git'
 #  args: ['clone','https://github.com/sailaja85/java1.git']
