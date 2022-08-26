@@ -4,6 +4,6 @@ steps:
   name: ubuntu
   args: 
       - ls
-      - pwd     
+      - ls    
 #- name: 'gcr.io/cloud-builders/git'
 #  args: ['clone','https://github.com/sailaja85/java1.git']
